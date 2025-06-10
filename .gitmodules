@@ -1,0 +1,3 @@
+[submodule "benchmarks/MMLU-Pro"]
+	path = benchmarks/MMLU-Pro
+	url = https://github.com/TIGER-AI-Lab/MMLU-Pro.git
